@@ -1,5 +1,7 @@
 import java.io.FileNotFoundException;
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
@@ -11,5 +13,8 @@ public class Main {
 //            System.out.println(statistic.getDate() + " " + statistic.getCases() +
 //                    " " + statistic.getDeaths());
 //        }
+
+
+
     }
 }
